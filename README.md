@@ -1,6 +1,7 @@
 # WalletX!
 
 ![Frame 1](https://github.com/sakib404/WalletX/assets/62664582/f8bce5c0-c14f-4c3a-999d-7fe91d403e8c)
+![1](https://github.com/sakib404/WalletX/assets/62664582/c042ab57-0070-4724-b11b-cdc6e7da4efb)
 ![2](https://github.com/sakib404/WalletX/assets/62664582/4cb3c998-df98-4c0e-9420-305735d5128e)
 ![3](https://github.com/sakib404/WalletX/assets/62664582/52475035-b4fa-4b0a-8bfd-af1db947b065)
 ![4](https://github.com/sakib404/WalletX/assets/62664582/1d6cb635-c250-4a14-aba4-f05e5d60eea2)
@@ -13,3 +14,6 @@
 ![11](https://github.com/sakib404/WalletX/assets/62664582/2f17b330-faed-4279-9528-2e1b7a5b6211)
 ![12](https://github.com/sakib404/WalletX/assets/62664582/f4526e91-f894-4bca-9329-828701952cdb)
 ![13](https://github.com/sakib404/WalletX/assets/62664582/757379ab-633d-49c3-a666-ebcc10fde611)
+
+
+
